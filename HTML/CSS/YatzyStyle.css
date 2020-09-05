@@ -1,0 +1,29 @@
+table
+{
+    width: 420px;
+    border-collapse: collapse;
+}
+td
+{
+    min-width: 15px;
+}
+td:nth-child(even)
+{
+    background-color: gray;
+}
+.Highlight
+{
+    background-color: #1a817d;
+}
+.Highlight td
+{
+    background-color: silver;
+}
+.Highlight td:first-child
+{
+    background-color: #1a817d;
+}
+input
+{
+    width: 20px;
+}

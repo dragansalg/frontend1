@@ -1,0 +1,49 @@
+img {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: pink;
+}
+h1
+{
+    border: 10px blueviolet solid;
+    color: sandybrown;
+}
+#p1
+{
+    border: 2px red dashed;
+    font-size: 20px;
+    color: orangered;
+}
+#p2{
+    border: 2px green solid;
+    color: black;
+    font-size: 25;
+}
+#p3{
+    border: 2px yellow solid;
+    color: black;
+    font-size: 25;
+}
+#p4{
+    border: 2px papayawhip dotted;
+    color: black;
+    font-size: 25;
+}
+
+li
+{
+    font-size: 18px;
+    color: burlywood;
+}
+body
+{
+    background-color: blanchedalmond;
+}
+a
+{
+    color: black
+}
